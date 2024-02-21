@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-adnan.netlify.app/](https://my-portfolio-adnan.netlify.app/)
 
-- 💬 Ask me about **HTML/CSS/Bootstrap/Tailwind/Js/React/Python**
+- 💬 Ask me about **HTML/CSS/Bootstrap/Tailwind/Js/React/Python/Jira**
 
 - 📫 How to reach me **https://www.linkedin.com/in/adnan-ahmed-066847242/**
 
