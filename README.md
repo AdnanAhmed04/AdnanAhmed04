@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on **React projects**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Express Js**
 
-- 👨‍💻 All of my projects are available at [https://adnanahmmed04.netlify.app/](https://adnanahmmed04.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adnanahmed04.netlify.app/](https://adnanahmed04.netlify.app/)
 
 - 💬 Ask me about **HTML/CSS/Bootstrap/Tailwind/Js/React/Python/Jira/Postman/AWS s3/MUI /SQL/Git/Github**
 
