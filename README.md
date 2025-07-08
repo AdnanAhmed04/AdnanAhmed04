@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/adnan-ahmed-066847242/**
 
-- 📄 Know about my experiences [https://my-portfolio-adnan.netlify.app/adnan-cv.pdf](https://my-portfolio-adnan.netlify.app/adnan-cv.pdf)
+- 📄 Know about my experiences ([https://my-portfolio-adnan.netlify.app/adnan-cv.pdf](https://adnanahmed04.netlify.app/Adnan%20Ahmed%20CV.pdf))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
